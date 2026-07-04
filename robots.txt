@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mingzeprecision.com/sitemap.xml

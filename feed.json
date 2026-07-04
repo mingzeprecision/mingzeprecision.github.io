@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "铭泽精工 | Mingze Precision",
+    "description": "",
+    "home_page_url": "https://mingzeprecision.com",
+    "feed_url": "https://mingzeprecision.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "铭泽精工"
+    },
+    "items": [
+    ]
+}
